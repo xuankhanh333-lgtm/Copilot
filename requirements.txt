@@ -1,0 +1,5 @@
+# Requirements for conversion and plotting
+pandas
+openpyxl
+matplotlib
+seaborn
