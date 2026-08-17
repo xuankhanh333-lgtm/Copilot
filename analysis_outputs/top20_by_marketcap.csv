@@ -1,0 +1,41 @@
+STT,Ma CK,San,Ten cong ty,Nganh,Gia (VND),KLGD phien,Von hoa (ty VND),CFO TTM (ty VND),LNST TTM (ty VND),CFO/LNST,Doanh thu TTM (ty),P/E,Danh gia chat luong LN,label
+1,VIC,HOSE,Vingroup Joint Stock Company,Tai chinh / BDS,213100,2605210,1597981.543945312,118362.717,14103.633,8.392356565148852,352958.796,,TOT - tien thuc >= loi nhuan,"VIC
+Vingroup Joint Stock"
+2,VHM,HOSE,Vinhomes Joint Stock Company,Tai chinh / BDS,130000,3083810,533963.57421875,109029.632,64015.55,1.703174181897992,203565.964,8.341154020730745,TOT - tien thuc >= loi nhuan,"VHM
+Vinhomes Joint Stock"
+3,VCB,HOSE,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Tai chinh / BDS,54100,2515533,452042.006933594,34933.028,35938.0,0.9720359508041627,136420.623,12.57821335337539,Kha - phan lon LN thanh tien,"VCB
+Joint Stock Commerci"
+4,BID,HOSE,Joint Stock Commercial Bank for Investment and Development of Vietnam,Tai chinh / BDS,36000,2975143,262082.337890625,25870.054,30918.204,0.8367256390442342,200099.726,8.239818073972279,Kha - phan lon LN thanh tien,"BID
+Joint Stock Commerci"
+5,CTG,HOSE,Vietnam Joint Stock Commercial Bank for Industry and Trade,Tai chinh / BDS,29000,7648097,225241.385742188,21207.818,38102.585,0.5565978791202749,181167.523,5.309941369275313,Kha - phan lon LN thanh tien,"CTG
+Vietnam Joint Stock "
+6,TCB,HOSE,Vietnam Technological & Commercial Joint Stock Bank,Tai chinh / BDS,28600,10828349,202666.484667969,27328.778,27116.046,1.007845244103805,99474.561,7.468689347909777,TOT - tien thuc >= loi nhuan,"TCB
+Vietnam Technologica"
+7,VPB,HOSE,Vietnam Prosperity Joint-Stock Commercial Bank,Tai chinh / BDS,24950,12431821,197951.387329102,35926.923,29815.912,1.204958043879389,144539.767,6.639119244595424,TOT - tien thuc >= loi nhuan,"VPB
+Vietnam Prosperity J"
+8,MCH,HOSE,Masan Consumer Corporation,Hang tieu dung nhanh,135000,90479,176499.678955078,5823.187472384,6858.910339966,0.8489960042855533,31539.798034519,25.29461954962312,Kha - phan lon LN thanh tien,"MCH
+Masan Consumer Corpo"
+9,MBB,HOSE,Military Commercial Joint Stock Bank,Tai chinh / BDS,21900,10456894,176404.5,27725.648,27726.712,0.9999616254534617,123427.659,6.362257716002353,Kha - phan lon LN thanh tien,"MBB
+Military Commercial "
+10,HPG,HOSE,Hoa Phat Group JSC,Khoang san - Thep,20800,20961478,175613.66875,28160.185931123,21100.070943732,1.334601481019583,171395.267367557,8.00015723385948,TOT - tien thuc >= loi nhuan,"HPG
+Hoa Phat Group JSC"
+11,GAS,HOSE,Petrovietnam Gas JSC,Dien - Nuoc - Tien ich,67200,1053933,162150.2203125,9743.966882185,11602.4120479,0.839822516383447,147473.235785158,13.97556808656567,Kha - phan lon LN thanh tien,"GAS
+Petrovietnam Gas JSC"
+12,LPB,HOSE,Fortune Vietnam Joint Stock Commercial Bank,Tai chinh / BDS,52400,2241752,156533.575878906,-110525.516,11292.455,-9.787554256359666,49914.024,13.86178477886088,"CANH BAO - CFO am, loi nhuan khong ra tien","LPB
+Fortune Vietnam Join"
+13,VPL,HOSE,Vinpearl Joint Stock Company,Dich vu tieu dung,74500,755869,139870.04864502,3512.783,2546.748,1.379321000742908,16053.553,52.45940240783728,TOT - tien thuc >= loi nhuan,"VPL
+Vinpearl Joint Stock"
+14,ACV,UPCOM,Airports Corporation of Vietnam,Van tai - Cang - Hang khong,38700,271644,138655.355558177,17432.464263289,10702.030105877,1.628893218466653,26449.936605199,12.01808974047354,TOT - tien thuc >= loi nhuan,"ACV
+Airports Corporation"
+15,STB,HOSE,Saigon Treasure Commercial Joint Stock Bank,Tai chinh / BDS,73500,6846061,138563.353820801,7646.299221,3291.23,2.323234541797444,68540.502,42.10078205496266,TOT - tien thuc >= loi nhuan,"STB
+Saigon Treasure Comm"
+16,ACB,HOSE,Asia Commercial Joint Stock Bank,Tai chinh / BDS,22500,13564003,130599.4921875,-222410.405,15678.14,-14.18601983398541,77404.359,8.330035873206931,"CANH BAO - CFO am, loi nhuan khong ra tien","ACB
+Asia Commercial Join"
+17,HDB,HOSE,Ho Chi Minh City Development Joint Stock Commercial Bank,Tai chinh / BDS,25850,11643098,129386.394091797,33792.021,17035.358,1.983640202923825,81853.059,,TOT - tien thuc >= loi nhuan,"HDB
+Ho Chi Minh City Dev"
+18,VNM,HOSE,Vietnam Dairy Products Corp.,Hang tieu dung nhanh,58900,4183478,123098.382861328,10506.108186892,9204.42712766,1.141419019476003,66860.039294994,13.37382263813524,TOT - tien thuc >= loi nhuan,"VNM
+Vietnam Dairy Produc"
+19,BSR,HOSE,Petrovietnam Refining And Petrochemical Corporation.,Dau khi - Nang luong,24000,10134823,120175.18359375,7033.987177016,13050.4962556,0.5389823527973274,155603.458015128,9.208478691407649,Kha - phan lon LN thanh tien,"BSR
+Petrovietnam Refinin"
+20,TCX,HOSE,Techcom Securities Joint Stock Company,Tai chinh / BDS,39200,1011647,108736.885742188,4830.99568063,6092.134165663,0.7929890493644847,11916.796270224,20.22847860167546,Kha - phan lon LN thanh tien,"TCX
+Techcom Securities J"
